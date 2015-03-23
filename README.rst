@@ -1,5 +1,5 @@
 ====
-nvPY
+nvPYame
 ====
 
 nvpy is a simplenote-syncing note-taking tool inspired by Notational
